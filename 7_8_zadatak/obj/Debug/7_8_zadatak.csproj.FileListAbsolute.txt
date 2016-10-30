@@ -1,0 +1,6 @@
+C:\Users\Korisnik\documents\visual studio 2015\Projects\Models\7_8_zadatak\bin\Debug\7_8_zadatak.exe.config
+C:\Users\Korisnik\documents\visual studio 2015\Projects\Models\7_8_zadatak\bin\Debug\7_8_zadatak.exe
+C:\Users\Korisnik\documents\visual studio 2015\Projects\Models\7_8_zadatak\bin\Debug\7_8_zadatak.pdb
+C:\Users\Korisnik\documents\visual studio 2015\Projects\Models\7_8_zadatak\obj\Debug\7_8_zadatak.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\documents\visual studio 2015\Projects\Models\7_8_zadatak\obj\Debug\7_8_zadatak.exe
+C:\Users\Korisnik\documents\visual studio 2015\Projects\Models\7_8_zadatak\obj\Debug\7_8_zadatak.pdb

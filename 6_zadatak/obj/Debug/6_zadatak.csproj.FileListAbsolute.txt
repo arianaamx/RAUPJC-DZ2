@@ -1,0 +1,6 @@
+C:\Users\Korisnik\documents\visual studio 2015\Projects\Models\6_zadatak\bin\Debug\6_zadatak.exe.config
+C:\Users\Korisnik\documents\visual studio 2015\Projects\Models\6_zadatak\bin\Debug\6_zadatak.exe
+C:\Users\Korisnik\documents\visual studio 2015\Projects\Models\6_zadatak\bin\Debug\6_zadatak.pdb
+C:\Users\Korisnik\documents\visual studio 2015\Projects\Models\6_zadatak\obj\Debug\6_zadatak.exe
+C:\Users\Korisnik\documents\visual studio 2015\Projects\Models\6_zadatak\obj\Debug\6_zadatak.pdb
+C:\Users\Korisnik\documents\visual studio 2015\Projects\Models\6_zadatak\obj\Debug\6_zadatak.csprojResolveAssemblyReference.cache

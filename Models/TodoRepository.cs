@@ -38,7 +38,7 @@ namespace Repositories
                 throw new ArgumentException($"Null object");
 
             if (_inMemoryTodoDatabase.Any(T => T.Id == todoItem.Id))
-                 throw new DuplicateTodoItemException($"duplicate id: {todoItem.Id}");
+                 throw new DuplicateTodoItemException($"Duplicate : {todoItem.Id}");
             
             _inMemoryTodoDatabase.Add(todoItem);
         }
